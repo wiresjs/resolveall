@@ -1,0 +1,24 @@
+{
+	"name": "resolveall",
+	"version": "1.0.0",
+	"description": "Resolve all promises, breaking chain if needed.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/wiresjs/resolveall.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/wiresjs/resolveall/issues"
+	},
+	"homepage": "https://github.com/wiresjs/resolveall",
+	"dependencies": {
+		"async": "^0.9.0",
+		"lodash": "^3.7.0",
+		"promise": "^7.0.1"
+	}
+}
