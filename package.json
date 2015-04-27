@@ -1,6 +1,6 @@
 {
 	"name": "resolveall",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Resolve all promises, breaking chain if needed.",
 	"main": "index.js",
 	"scripts": {

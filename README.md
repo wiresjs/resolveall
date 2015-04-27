@@ -28,7 +28,7 @@ var c = function(resolve, reject) {
 ```
 
 ```js
-resolveall([a, b, c], this).then(function(res) {
+resolveall.chain([a, b, c], this).then(function(res) {
 	console.log(res);
 }).catch(function(e) {
 	console.log("Error", e);
